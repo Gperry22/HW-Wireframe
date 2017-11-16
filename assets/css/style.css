@@ -28,7 +28,7 @@ h1, h2, h3, p, {
 }
 
 /*index3*/
-.header, .nav, .footer {
+header, nav, footer {
   height: 70px;
   background-color: #fff;
   border-width: 1px;
@@ -37,7 +37,7 @@ h1, h2, h3, p, {
   padding-top: 22px ;
 }
 
-.nav{
+nav{
   margin-top: 10px;
   margin-bottom: 20px;
 }
